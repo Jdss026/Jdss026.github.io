@@ -2,6 +2,8 @@
 layout: default
 ---
 
+teste para verificar cd/ci
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
