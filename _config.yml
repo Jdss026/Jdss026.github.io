@@ -1,6 +1,10 @@
 title: Jonas dos Santos Sousa 
 logo: /assets/img/cv_photo.jpeg
 description: Cientista de Dados | Analista de Dados | Graduado em Física.
-show_downloads: false
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+
+github:
+      zip_url: http://example.com/download.zip
+      website: https://caerulanebulae.xyz/
