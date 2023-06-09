@@ -2,122 +2,39 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Experiência Profissional
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+### **Graduação em Física (2019-2023)**
+Desenvolvimento de habilidades técnicas e específicas da formação de um físico teórico, com o dia a dia focado na aprendizagem e resolução de problemas de alto nível. Obtive e analisei os dados de experimentos reais utilizando o tratamento estatístico utilizando **Excel, Numpy e Pandas** para a limpeza e análise dos dados, com a finalidade de apresentação gráfica dos resultados. Realizei estudos sobre a solução de problemas de Astronomia e Astrofísica tais como efeitos de marés, radiação estelar, atmosfera estelar e cálculos orbitais com dados astronômicos com o auxílio das bibliotecas do Python: **Scipy, Numpy, Pandas, Astropy e Matplotlib**. Realizei pesquisas na área de mecânica quântica sobre o tema de **Computação e Informação Quântica**, tais como Protocolos de Teletransporte e Codificação Superdensa, além de executar tais protocolos em Hardware real por meio da **SDK em Python da IBM para circuitos quânticos - Qiskit**. Dentro desta mesma área, realizei pesquisas sobre Fases Topológicas que surgem no contexto de sistemas quânticos onde realizei minha monografia.
 
 
-### Definition lists can be used with HTML syntax.
+# Projetos Recentes
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+1. **Previsão de preço de casas em Merlbourne, AU** - Projeto de Análise Exploratória de Dados, Modelagem via Regressão e Criação de API via Flask : [Link Github](https://github.com/Jdss026/MelborneProject).
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
+2. **Previsor de Risco de AVC** - Projeto de Análise Exploratória de Dados, Modelagem via Classificação e Criação de API em Flask: [Link Github](https://github.com/Jdss026/stroke-classifier).
+
+
+3. Reservado
+
+
+
+# Habilidades
+  - Experiência em Python e suas bibliotecas de dados: Numpy, Pandas, Scikit-Learn, Seaborn e Matplotlib.
+
+  - Experiência em ambiente GNU/Linux e comandos Bash.
+
+  - Domínio em versionamento de código: GitHub, GitLab.
+ 
+  - Conhecimento nos principais ambientes de nuvens: AWS (EC2, S3) e GCP (Compute Engine, Cloud Storage, BigQuery).
+
+  - Experiência em modelagem estatística dos dados e análise exploratória dos dados.
+ 
+  - Domínio sólido em ferramentas de visualização 
+ de dados: Power BI, Tableau.
+  
+  - Experiência em construção de modelos de machine learning: modelos de Classificação e Regressão.
+
+ 
+  - Experiência em técnicas de análises descritivas, preditivas e prescritivas.
