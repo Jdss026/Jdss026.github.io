@@ -21,7 +21,9 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <p>{{ site.description.a | default: site.github.project_tagline }}</p>
+        <p>{{ site.description.b | default: site.github.project_tagline }}</p>
+        <p>{{ site.description.c | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
@@ -34,9 +36,9 @@
 
         {% if site.show_downloads %}
         <ul class="downloads">
-          <li><a href="{{ site.github.zip_url }}">Download CV em<strong>PDF</strong></a></li>
-          <li><a href="{{ site.github.website }}">Veja meu <strong>Blog</strong></a></li>
-          <li><a href="{{ site.github.owner_url }}">Veja meu <strong>GitHub</strong></a></li>
+          <li><a href="{{ site.github.zip_url }}">Download CV <strong>PDF</strong></a></li>
+          <li><a href="{{ site.github.website }}">Visite meu<strong>Blog</strong></a></li>
+          <li><a href="{{ site.github.owner_url }}">Visite meu<strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
       </header>
