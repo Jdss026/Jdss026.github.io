@@ -16,8 +16,7 @@ Desenvolvimento de habilidades técnicas e específicas da formação de um fís
 2. **Previsor de Risco de AVC** - Projeto de Análise Exploratória de Dados, Modelagem via Classificação e Criação de API em Flask: [Link Github](https://github.com/Jdss026/stroke-classifier).
 
 
-3. Reservado
-
+3. Reservado para futuros projetos
 
 
 # Habilidades
