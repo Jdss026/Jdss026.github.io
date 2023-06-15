@@ -10,6 +10,7 @@ layout: default
 
 Desenvolvimento de habilidades técnicas e específicas da formação de um físico teórico, com o dia a dia focado na aprendizagem e resolução de problemas de alto nível. Obtive e analisei os dados de experimentos reais utilizando o tratamento estatístico utilizando **Excel, Numpy e Pandas** para a limpeza e análise dos dados, com a finalidade de apresentação gráfica dos resultados. Realizei estudos sobre a solução de problemas de Astronomia e Astrofísica tais como efeitos de marés, radiação estelar, atmosfera estelar e cálculos orbitais com dados astronômicos com o auxílio das bibliotecas do Python: **Scipy, Numpy, Pandas, Astropy e Matplotlib**. Realizei pesquisas na área de mecânica quântica sobre o tema de **Computação e Informação Quântica**, tais como Protocolos de Teletransporte e Codificação Superdensa, além de executar tais protocolos em Hardware real por meio da **SDK em Python da IBM para circuitos quânticos - Qiskit**. Dentro desta mesma área, realizei pesquisas sobre Fases Topológicas que surgem no contexto de sistemas quânticos onde realizei minha monografia.
 
+</div>
 
 # Projetos Recentes
 
@@ -41,4 +42,3 @@ Desenvolvimento de habilidades técnicas e específicas da formação de um fís
  
   - Experiência em técnicas de análises descritivas, preditivas e prescritivas.
 
-</div>
