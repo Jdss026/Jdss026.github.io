@@ -24,6 +24,8 @@ Desenvolvimento de habilidades técnicas e específicas da formação de um fís
   - Experiência em Python e suas bibliotecas de dados: Numpy, Pandas, Scikit-Learn, Seaborn e Matplotlib.
 
   - Experiência em ambiente GNU/Linux e comandos Bash.
+  
+  - Experiência com Docker (Containers) 
 
   - Domínio em versionamento de código: GitHub, GitLab.
  
